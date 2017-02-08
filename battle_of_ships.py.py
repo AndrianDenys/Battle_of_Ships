@@ -1,6 +1,5 @@
 def read_file():
     """
-    ---
     Converts file in list of lines and checks size of field
     >read_file()
     >> %lines%, True
@@ -18,7 +17,6 @@ def read_file():
                 else:
                     i += 1
     return lines, temp
-"lalka"
 
 def has_ship(x, y):
     """
